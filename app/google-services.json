@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995125899205",
+    "firebase_url": "https://underwritingafrica.firebaseio.com",
+    "project_id": "underwritingafrica",
+    "storage_bucket": "underwritingafrica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995125899205:android:1326198c09eea7c1",
+        "android_client_info": {
+          "package_name": "com.example.uacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995125899205-8pnht1ql3ehgvnjpp2og585s8pjonqj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uacare",
+            "certificate_hash": "08c3956ef450ece929eef05b12127549cdcaf35b"
+          }
+        },
+        {
+          "client_id": "995125899205-id0rg9ede41atrejbh819dn76l8fagrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXGsyIuE9cza13ionJuPrGK4kEvglagPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995125899205-id0rg9ede41atrejbh819dn76l8fagrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
